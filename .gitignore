@@ -1,0 +1,5 @@
+*.tfstate*
+tfplan
+*hcl*
+*.pub
+/.terraform
